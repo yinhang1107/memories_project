@@ -46,23 +46,21 @@
 
 ## Setup
 
-<!-- Steps are yet to be tested -->
-
 1. Open 2 separate terminals
 2. In terminal 1,
 ```
-git clone YOUR URL HERE
-cd YOUR PROJECT NAME/client
+git clone https://github.com/yinhang1107/memories_project.git
+cd memories_project/client
 npm i
 ```
 3. In terminal 2,
 ```
-cd YOUR PROJECT NAME/server
+cd memories_project/server
 npm i
 ```
-4. Open the project via VS code and navigate to /client/src/api/index.js, replace the existing baseURL with your baseURL.
+4. Open the project via VS code and navigate to /client/src/api/index.js, enter your baseURL.
 5. Then navigate to /client/src/components/Auth/Auth.js, enter your clientId. (Steps of getting the clientId - click [here](https://youtu.be/LKlO8vLvUao?t=3255)).
-6. Finally, navigate to /server/index.js, enter your connection URL.
+6. Finally, navigate to /server/index.js, enter your connection URL.(Steps of getting the connection URL - click [here](https://youtu.be/ngc9gnGgUdA?list=RDCMUCmXmlB4-HJytD7wek0Uo97A&t=622)
 7. Now, on both terminal 1 and 2, run npm start.
 
 ## Acknowledgements
