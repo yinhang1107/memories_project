@@ -38,7 +38,7 @@
 - Before signing in, client can search posts by title or tags or both. Client can also clicks on the post to navigate to post detail.
 ![Before signing in](https://s1.im.ge/2021/06/15/QJaSK.png)
 
-- On post detail, there are recommended posts on the bottom of the page. These posts are recommended by having similar tags with the main post.
+- In post detail, there are recommended posts at the bottom of the page. These posts are recommended by having similar tags with the main post.
 ![Post detail](https://s2.im.ge/2021/06/15/QJDfX.png)
 
 - After signing in, user can create, delete, like or edit post by filling up the form.
