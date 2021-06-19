@@ -68,4 +68,4 @@ npm i
 
 ## Contact
 
-Created by [@yinhang](https://www.yinhang.netlify.app/) - feel free to contact me!
+Created by [@yinhang](https://yinhang.netlify.app/) - feel free to contact me!
